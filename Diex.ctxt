@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Diex
+comment1.params=max
+comment1.target=void\ roll(int)
+comment2.params=
+comment2.target=Diex()
+comment3.params=
+comment3.target=int\ getValue()
+numComments=4
